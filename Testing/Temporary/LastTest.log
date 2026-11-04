@@ -1,0 +1,35 @@
+Start testing: Nov 05 02:30 MSK
+----------------------------------------------------------
+1/2 Testing: unit
+1/2 Test: unit
+Command: "/home/artem/projects/my_cpp_project/src/sem_1/lab2/build/test_unit"
+Directory: /home/artem/projects/my_cpp_project/src/sem_1/lab2/build
+"unit" start time: Nov 05 02:30 MSK
+Output:
+----------------------------------------------------------
+[unit] All tests passed
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"unit" end time: Nov 05 02:30 MSK
+"unit" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/2 Testing: integration
+2/2 Test: integration
+Command: "/home/artem/projects/my_cpp_project/src/sem_1/lab2/build/test_integration"
+Directory: /home/artem/projects/my_cpp_project/src/sem_1/lab2/build
+"integration" start time: Nov 05 02:30 MSK
+Output:
+----------------------------------------------------------
+[integration] All tests passed
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"integration" end time: Nov 05 02:30 MSK
+"integration" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Nov 05 02:30 MSK
